@@ -1,6 +1,0 @@
-ping
-tracert
-ipconfig
-netstat
-arp
-route
